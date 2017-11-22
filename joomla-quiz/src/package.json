@@ -1,0 +1,20 @@
+{
+  "name": "joomla-quiz",
+  "version": "1.0.0",
+  "description": "Test your Joomla knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "joomla",
+    "skill",
+    "trivia",
+	"quiz"
+  ],
+  "author": "Elisa Foltyn",
+  "license": "GPL",
+  "dependencies": {
+    "alexa-sdk": "^1.0.12"
+  }
+}
